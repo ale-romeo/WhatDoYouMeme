@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-image: url('src/assets/background.png');
+  background-repeat: repeat;
+  background-size: 300px 300px;
+  background-position: center;
+}
+
+@font-face {
+  font-family: Dinofiles;
+  src: url('src/assets/Dinofiles.ttf');
+}
